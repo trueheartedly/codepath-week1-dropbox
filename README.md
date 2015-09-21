@@ -1,6 +1,6 @@
 # Dropbox Demo
 
-This is an iPhone demo application showing the welcome flow, create account, sign in, and basic screens of the [Dropbox iOS App](https://www.dropbox.com/mobile). Built using Codepath's [Dropbox  Tutorial](http://courses.codepath.com/courses/ios_for_designers/unit/1#!assignment) .
+This is an iPhone demo application showing the welcome flow, create account, sign in, and basic screens of the [Dropbox iOS App](https://www.dropbox.com/mobile). Built using Codepath's [Dropbox  Tutorial](http://courses.codepath.com/courses/ios_for_designers/unit/1#!assignment).
 
 Time spent: 11 hours spent in total
 
@@ -16,4 +16,5 @@ Walkthrough of all user stories:
 ![Video Walkthrough](anim_dropbox.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 Welcome screen swipe interaction built using [Ray Wanderlich's How To Use UIScrollView to Scroll and Zoom Content Tutorial](http://www.raywenderlich.com/10518/how-to-use-uiscrollview-to-scroll-and-zoom-content)
